@@ -31,3 +31,14 @@ To strengthen my understanding of:
 - Built using JavaScript DOM manipulation.
 - Mobile-friendly and responsive.
 
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (Vanilla DOM manipulation)
+
+## 💡 Features
+- Simple and clean UI
+- Responsive layout
+- Interactive to-do list
+- Form validation with alerts
+- Smooth animation effects
