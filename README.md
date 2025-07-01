@@ -31,7 +31,3 @@ To strengthen my understanding of:
 - Built using JavaScript DOM manipulation.
 - Mobile-friendly and responsive.
 
-## 🖼️ Demo
-> Add screenshots or a short video/gif here if you'd like (optional)
-
-## 📁 Folder Structure
